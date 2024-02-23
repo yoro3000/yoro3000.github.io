@@ -7,6 +7,8 @@ tags: [reverse_engineering, js]
 
 # Challenge 1 - Flaredle
 
+## Start
+
 The Prompt for this challenge:
 ```
 Welcome to Flare-On 9!
