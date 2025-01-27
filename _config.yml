@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yonatan F
-  email: example@domain.com # change to your email address
+  name: Yonatan Farber
+  email: jonjon.farber@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/yoro3000 # change to your twitter homepage
     - https://github.com/yoro3000 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/yonatan-farber-b73896256
 
 google_site_verification: # fill in to your verification string
 
