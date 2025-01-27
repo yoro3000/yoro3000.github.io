@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
+layout: page
 icon: fas fa-info-circle
 order: 4
 ---
+
+# About Me
 
 Hi, I’m a cybersecurity professional with a background in Threat Hunting and Incident Response. I’ve always been curious about computers and love figuring out how they work. This curiosity is what got me into the world of cybersecurity. One of my favorite things to do is reverse engineer malware - it’s tough but really interesting and rewarding.
 
